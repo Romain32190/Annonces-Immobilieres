@@ -18,9 +18,19 @@
 
 # Diagrammes d'états
 
-![annonces-etat](https://user-images.githubusercontent.com/26247580/30323938-704a3f52-97bf-11e7-8708-9a8362000829.jpg)
+
+# Annonces 
+
+![annonces-etat](https://user-images.githubusercontent.com/26247580/30324859-d0b41d74-97c2-11e7-94e5-60e361aed5ac.jpg)
+
+
+# Authentification
 
 ![authentification-etat](https://user-images.githubusercontent.com/26247580/30324033-cd66686e-97bf-11e7-8be4-a59f29579238.jpg)
 
+
 # Schéma entité association
+
+![capture du 2017-09-12 13-58-19](https://user-images.githubusercontent.com/26247580/30324775-7ec7aec2-97c2-11e7-8fd9-609367ee8d09.png)
+
 
